@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **Next.js,graphQL**
 
-- 👨‍💻 All of my projects are available at [mernfinity.netlify.app](mernfinity.netlify.app)
+- 👨‍💻 All of my projects are available at [my Portfolio](https://usmandev.vercel.app/)
 
 - 💬 Ask me about **MERN stack**
 
 - 📫 How to reach me **usman.mernstack@gmail.com**
 
-- 📄 Know about my experiences [mernfinity.netlify.app](mernfinity.netlify.app)
+- 📄 Know about my experiences [usmandev.vercel.app](https://usmandev.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
