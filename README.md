@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/musman_47" target="blank"><img src="https://img.shields.io/twitter/follow/musman_47?logo=twitter&style=for-the-badge" alt="musman_47" /></a> </p>
 
-- 🌱 I’m currently learning **Next.js,graphQL**
+- 🌱 I’m currently learning **React Native** and practicing **DSA**
 
 - 👨‍💻 All of my projects are available at [my Portfolio](https://usmandev.vercel.app/)
 
