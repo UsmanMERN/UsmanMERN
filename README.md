@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning React Native and practicing DSA<br><br>👨‍💻 All of my projects are available at my Portfolio<br><br>💬 Ask me about MERN stack<br><br>📫 How to reach me **usman853136@gmail.com**<br><br>📄 Know about my experiences [my Portfolio](https://usmandev.vercel.app/)
+🌱 I’m currently learning React Native and practicing DSA<br><br>👨‍💻 All of my projects are available at [my Portfolio](https://usmandev.vercel.app/)<br><br>💬 Ask me about MERN stack<br><br>📫 How to reach me **usman853136@gmail.com**<br><br>📄 Know about my experiences [my Portfolio](https://usmandev.vercel.app/)
 
 
 ## 🌐 Socials:
