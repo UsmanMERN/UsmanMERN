@@ -1,6 +1,7 @@
 # 💫 About Me:
-🌱 I’m currently learning React Native and practicing DSA<br><br>👨‍💻 All of my projects are available at [my Portfolio](https://usmandev.vercel.app/)<br><br>💬 Ask me about MERN stack<br><br>📫 How to reach me **usman853136@gmail.com**<br><br>📄 Know about my experiences [my Portfolio](https://usmandev.vercel.app/)
+Hi there! 👋 I'm Usman, MERN stack developer and a software engineering student. I love transforming cutting-edge technologies into impactful real-world projects. Currently, I'm exploring the fascinating world of LLMs (Large Language Models) and diving into their NLP applications. Feel free to explore my journey through code and creativity.
 
+All of my projects are available at [my Portfolio](https://usmandev.vercel.app/). If you have any questions about the MERN stack or want to connect, you can reach me at **usman853136@gmail.com**.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/channels/usman_47) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://web.facebook.com/profile.php?id=100054508777162) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/musman.47) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mernstack-developers/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/musman_47) 
@@ -11,5 +12,3 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
