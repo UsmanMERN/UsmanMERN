@@ -15,8 +15,6 @@ All of my projects are available at [my Portfolio](https://usmandev.vercel.app/)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=usmanmern&show_icons=true&locale=en" alt="usmanmern" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=usmanmern&" alt="usmanmern" /></p>
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
